@@ -84,7 +84,7 @@ network_movement <- "walk"
 use_distance <- FALSE
 use_rmse <- FALSE
 use_mcc <- FALSE
-success_metric <- "mcc"
+success_metric <- "quantity"
 use_initial_condition_uncertainty <- FALSE
 use_host_uncertainty <- FALSE
 
